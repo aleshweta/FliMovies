@@ -20,11 +20,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### App Walkthrough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="
 
-https://user-images.githubusercontent.com/47941415/133841627-a65116b7-de7f-4730-9ddc-86fa55181efe.mov"
 
- width=250><br>
+https://user-images.githubusercontent.com/47941415/133842100-ea095d10-b7ee-44e6-8713-b5a7f5d21e8a.mov
+
+
 
 ### Notes
 I had to be very careful and work on each steps thoroughly. 
